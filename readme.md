@@ -225,5 +225,3 @@ MIT License © 2025 Marat Shamsutdinov
 (см. файл `LICENSE`)
 
 ````
-
----
