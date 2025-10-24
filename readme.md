@@ -23,7 +23,6 @@
 Установить:
 ```bash
 pip install -r requirements.txt
-````
 
 Файл `requirements.txt`:
 
@@ -131,5 +130,3 @@ python excel_to_kml.py --in-dir "./reports" --out-dir "./kml_out"
 * Временные Excel-файлы вида `~$*.xlsx` пропускаются.
 
 ````
-
----
