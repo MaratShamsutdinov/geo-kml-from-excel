@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🗺️ geo-kml-from-excel
 
 **Excel → KML converter (RU headers)**
@@ -34,7 +33,6 @@ python -m venv .venv
 # Windows:
 .venv\Scripts\activate
 pip install -r requirements.txt
-````
 
 `requirements.txt`:
 
